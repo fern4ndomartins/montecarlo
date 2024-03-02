@@ -1,0 +1,11 @@
+# ninja log v5
+4	649	7310816826160932	CMakeFiles/montecarlo.dir/main.cpp.obj	9760cbaf221f8369
+652	951	7310816829126220	montecarlo.exe	5f48deffeea274d3
+10	559	7310816949997071	CMakeFiles/montecarlo.dir/main.cpp.obj	9760cbaf221f8369
+560	743	7310816951775656	montecarlo.exe	5f48deffeea274d3
+18	569	7310817040977394	CMakeFiles/montecarlo.dir/main.cpp.obj	9760cbaf221f8369
+569	713	7310817042369537	montecarlo.exe	5f48deffeea274d3
+62	1173	7310828334029993	CMakeFiles/montecarlo.dir/main.cpp.obj	9760cbaf221f8369
+1175	1484	7310828337139912	montecarlo.exe	5f48deffeea274d3
+23	666	7310829126933243	CMakeFiles/montecarlo.dir/main.cpp.obj	9760cbaf221f8369
+667	951	7310829129697720	montecarlo.exe	5f48deffeea274d3
