@@ -4,7 +4,8 @@
 
 std::pair <int, int> random_walk(int n) {
     int x(0), y(0);
-    std::string const direction[] = {"N", "NW", "W", "SW", "S", "SE", "E", "NE"};
+    std::vector<std::string> direction; 
+    direction = {"N", "NW", "W", "SW", "S", "SE", "E", "NE"};
     for(int i = 0; i < n; ++i) {
         int r = rand() % 8;
 
